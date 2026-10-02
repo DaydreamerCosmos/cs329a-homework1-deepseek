@@ -1,0 +1,14 @@
+litellm==1.80.0
+tenacity
+datasets
+huggingface_hub
+sympy
+antlr4-python3-runtime==4.7.2
+word2number
+latex2sympy2==1.9.1
+timeout-decorator
+jupyter
+matplotlib
+python-dotenv
+numpy
+regex
